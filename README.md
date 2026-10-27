@@ -1,3 +1,5 @@
+CS student Pertamina University 2022 - 2024 (voluntarily withdrew), CS student Pamulang University 2024 - now, currently i work at a banking corporation as a Software Engineer (Fullstack), but in practice, my senior and I handle whole of the IT department’s operations.
+
 I'm an AI-Assisted Software Engineer who focuses on building practical applications, designing system architecture, working with databases, and improving performance.
 
 I usually start from the application flow, database structure, relationships between data, algorithms, and system requirements before moving into implementation.
