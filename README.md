@@ -91,22 +91,6 @@ I also use AI as a development assistant for implementation, debugging, research
 - Voice conversion
 - GPU inference optimization
 
-# Development Approach
-
-When building an application, I usually think about:
-
-- What the actual business flow should look like.
-- What data needs to be stored.
-- How the database tables should relate to each other.
-- Whether the relationship should be one-to-one, one-to-many, or many-to-many.
-- What data types and formats should be used.
-- What algorithm or data structure fits the problem.
-- How the application behaves when the amount of data becomes large.
-- How queries can be optimized.
-- How failures and invalid data should be handled.
-- Whether existing functions can be reused instead of creating duplicate logic.
-- How easy the system will be to maintain and extend in the future.
-
 # Currently Exploring
 
 - Rust and Tauri desktop development
